@@ -30,6 +30,9 @@ XCP is a native currency token of Counterparty.
 ### Wallets
 
 - [FreeWallet](https://freewallet.io)
+- [CounterWallet](https://counterwallet.io)
+- [Rare Pepe Wallet](https://rarepepewallet.com)
+- [Fake Rare Wallet](https://fakerarewallet.com)
 
 ### Explorers
 
