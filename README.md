@@ -63,3 +63,4 @@ XCP is a native currency token of Counterparty.
 - [Fake Ape Club](https://fakeapeclub.com)
 - [Fake Munchkin](https://www.fakemunchkin.com)
 - [Pepe Project](http://pepeproject.com)
+- [XCPinata](https://www.xcpinata.com/)
