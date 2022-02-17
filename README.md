@@ -54,4 +54,8 @@ XCP is a native currency token of Counterparty.
 - [PUNYCODES](http://punycodes.xcp.coinsite.io)
 - [Bitcoin Coaster](https://cards.bitcoincoaster.com)
 - [Retro XCP](https://www.retro-xcp.art)
+- [Pepemon](https://pepemon.net)
+- [Phunchkins](https://phunchkins.com/)
+- [Scannable NFTs](https://scannablenfts.com)
+- [Fake Ape Club](https://fakeapeclub.com)
 
